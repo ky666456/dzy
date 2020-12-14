@@ -1,0 +1,7 @@
+
+<view class='imagesize'>
+<image class=""src="/images/1.0.jpg"></image>
+</view>
+<button class='click-btn' type='primary' catchtap='joinPage'>
+      BACK
+      </button>
